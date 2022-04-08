@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "王琪源"
+  name             : "成婕妍"
   avatar           : "picture.jpg"
-  bio              : "西北工业大学 电子信息学院 电子信息工程 本科 大三"
+  bio              : "西北工业大学 航海学院 信息工程 本科 大三"
   location         : "陕西 西安"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mailbox_wqy@mail.nwpu.edu.cn"
+  email            : "chengjieyan@mail.nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Marcus-bot"
+  github           : "Janne145"
   google_plus      :
   keybase          :
   instagram        :
